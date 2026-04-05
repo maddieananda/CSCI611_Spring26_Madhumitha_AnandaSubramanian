@@ -1,6 +1,6 @@
 # Assignment 2
 
-# Overview
+# Overview: In this project, I explored convolution in two domains: Image Processing using OpenCV and Convolutional Neural Networks.
 
 # Files
 - build_cnn.ipynb → implementation
@@ -11,5 +11,10 @@
 Copy paste file into the Jupyter Notebook and press run
 
 # Results
+Part 1:
+- Accuracy: Accurate
+- Training Time: ~2 minutes
+
+Part 2:
 - Accuracy: ~70–80%
 - Training Time: ~10–15 minutes
